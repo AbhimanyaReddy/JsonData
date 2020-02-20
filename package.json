@@ -1,0 +1,20 @@
+{
+  "name": "realdirectory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase": "^7.8.2",
+    "fs": "0.0.1-security",
+    "method-override": "^3.0.0",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2"
+  }
+}
